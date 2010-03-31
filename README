@@ -1,0 +1,7 @@
+Copyright 2005, Matthew Hooker
+
+rQuip is a utility for solving the "crypto-quip" in the Sunday newspaper. It
+tries to decrypt a monoalphabetic substitution encrypted string by working off
+of known letter frequencies. It replaces the cyphertext alphabet with what it
+thinks it should be based off of statistical frequency. In order to test it I
+wrote a monoalphabetic character substitution encryption class called Quip.
